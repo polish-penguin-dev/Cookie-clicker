@@ -1,5 +1,5 @@
 # Cookie-clicker
-Hi there! This is a simple cookie clicker project available on https://cookie-clicker-but-worse.penguinbotcoder.repl.co.
+Hi there! This is a simple cookie clicker project available on https://cookie-clicker-but-worse.penguinbotcoder.repl.co (reccommended) or https://polish-penguin-dev.github.io/Cookie-clicker/ (not reccommended).
 
 # Hi there!
 
